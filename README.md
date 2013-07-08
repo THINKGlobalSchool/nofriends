@@ -1,4 +1,4 @@
-nofriends
+Elgg 'No Friends' plugin
 =========
 
-Elgg plugin to turn off and bury all friends funcationality
+This plugin disables and hides all built in friends functionality. 
